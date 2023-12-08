@@ -1,1 +1,1 @@
-# DSCI_100_Diabetes_Prediction
+# Predicting Diabetes in a Pima Indian Female Population Based on Modifiable Factors
