@@ -1,1 +1,1 @@
-# Predicting Diabetes in a Pima Indian Female Population Based on Modifiable Factors
+# Predicting Diabetes in a Pima Indian Female Population Using K-Nearest Neighbors Classification
